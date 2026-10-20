@@ -8,7 +8,7 @@
 - 📚 Sekarang sedang mempelajari: **Git, GitHub, dan Asas Web Development**
 - 🎯 Matlamat: **Membina projek-projek menarik dan menyumbang kepada komuniti open-source**
 - 💬 Tanya saya tentang: **Perkara asas berkaitan programming atau pembelajaran saya**
-- 📫 Cara hubungi saya: **yi.xuan@email.com** *(tukar ke e-mel/pautan anda)*
+- 📫 Cara hubungi saya: **ngyi.xuan@graduate.utm.my** *(tukar ke e-mel/pautan anda)*
 
 ---
 
